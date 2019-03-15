@@ -19,7 +19,7 @@ namespace ETB310_LandlordV2.Controllers
         {
             return View();
         }
-
+        //test emil
         [HttpPost]
         public ActionResult Login(LogInViewModel login)
         {
